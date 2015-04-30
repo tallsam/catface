@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "samhassell@gmail.com",
+    "longName": "CATFACE",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cat.png",
+                "name": "IMAGE_CAT",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "CATFACE",
+    "uuid": "4fd56bb2-6819-43a8-87a7-5ecad95c69ac",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
