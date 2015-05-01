@@ -10,6 +10,7 @@
         "media": [
             {
                 "file": "images/cat.png",
+                "menuIcon": true,
                 "name": "IMAGE_CAT",
                 "type": "png"
             }
